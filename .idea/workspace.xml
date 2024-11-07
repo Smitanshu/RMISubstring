@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054ba0a4-8e80-4a0b-80d0-b527cf82e5b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/client/SubstringClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/policy.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/SubstringCheckerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="054ba0a4-8e80-4a0b-80d0-b527cf82e5b4" name="Changes" comment="initial">
+      <change beforePath="$PROJECT_DIR$/src/client/SubstringClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/SubstringClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/policy.policy" beforeDir="false" afterPath="$PROJECT_DIR$/src/policy.policy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/shared/SubstringChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/SubstringChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +50,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.SubstringCheckerImpl.executor": "Run",
+    "Application.SubstringClient.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -101,6 +101,15 @@
       <option name="presentableId" value="Default" />
       <updated>1730941551599</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <option name="closed" value="true" />
+      <created>1730942077072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730942077072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
 </project>
